@@ -6,6 +6,8 @@
 - **Name:** IMAN NUR IZZAH BINTI MOHD RAFIZAN
 - **Matrics No.:** AI250113
 - **Section:** 7
+- ### Repository
+GitHub Repository: https://github.com/imanizzah1702-beep/lab4a-javascript2.git
 
 ### Introduction
 This lab focuses on JavaScript functions, events, conditions, loops, and DOM manipulation. The purpose is to develop interactive web pages using JavaScript.
@@ -49,6 +51,5 @@ This lab focuses on JavaScript functions, events, conditions, loops, and DOM man
 ### Reflection
 This lab helped me understand how JavaScript helps to make web pages more interactive. I learned to use many functions, event listeners, conditional statements, and loops. I also practiced manipulating HTML elements using the DOM methods. By testing the programs, it helped me understand how JavaScript responds to user actions, for example, by clicking the button.
 
-### Repository
-GitHub Repository: https://github.com/imanizzah1702-beep/lab4a-javascript2.git
+
 
