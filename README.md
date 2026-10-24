@@ -6,7 +6,7 @@
 - **Name:** IMAN NUR IZZAH BINTI MOHD RAFIZAN
 - **Matrics No.:** AI250113
 - **Section:** 7
-- ### Repository
+### Repository
 GitHub Repository: https://github.com/imanizzah1702-beep/lab4a-javascript2.git
 
 ### Introduction
