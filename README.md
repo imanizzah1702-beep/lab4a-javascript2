@@ -19,8 +19,8 @@ This lab focuses on JavaScript functions, events, conditions, loops, and DOM man
 ### Question 2: Smart Number Validator
 - Created an input field for entering a number.
 - Used the `checkInput()` function and `if...else if...else` statements.
-- Validated empty, invalid, lower, higher, and equal-to-10 inputs.
-- **Expected output:** An appropriate validation message is displayed.
+- Validated empty, invalid, lower, higher, and equal to 10 inputs.
+- **Expected output: ** An appropriate validation message is displayed, likes, "The number is equal to 10".
 
 ### Question 3: Dynamic Number Generator
 - Created a button to generate a numbered list.
@@ -47,7 +47,7 @@ This lab focuses on JavaScript functions, events, conditions, loops, and DOM man
 
 
 ### Reflection
-This lab helped me understand how JavaScript makes web pages interactive. I learned to use functions, event listeners, conditional statements, and loops. I also practised manipulating HTML elements using DOM methods. Testing the programs helped me understand how JavaScript responds to user actions.
+This lab helped me understand how JavaScript helps to make web pages more interactive. I learned to use many functions, event listeners, conditional statements, and loops. I also practiced manipulating HTML elements using the DOM methods. By testing the programs, it helped me understand how JavaScript responds to user actions, for example, by clicking the button.
 
 ### Repository
 GitHub Repository: https://github.com/imanizzah1702-beep/lab4a-javascript2.git
