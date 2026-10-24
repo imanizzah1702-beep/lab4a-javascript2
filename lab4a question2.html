@@ -14,11 +14,11 @@
 
 <script>
     function checkInput() {
-        // Read the input value
+      
         const input = document.getElementById("userInput").value.trim();
         const result = document.getElementById("result");
 
-        // Check for empty input or invalid number
+    
         if (input === "" || !Number.isFinite(Number(input))) {
             result.textContent = "Please enter a valid number!";
         }
@@ -33,7 +33,7 @@
         }
     }
 
-    // Register the click event
+   
     document.getElementById("checkBtn").addEventListener("click", checkInput);
 </script>
 
